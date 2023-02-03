@@ -1,1 +1,1 @@
-https://blog.knoldus.com/deploying-a-static-website-to-aws-s3-using-jenkins/
+Ref - https://blog.knoldus.com/deploying-a-static-website-to-aws-s3-using-jenkins/
